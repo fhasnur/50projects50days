@@ -31,6 +31,14 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+    {
+        question: "What year was HTML launched?",
+        a: "1990",
+        b: "1992",
+        c: "1993",
+        d: "none of the above",
+        correct: "c"
+    },
 ];
 
 const quiz = document.getElementById('quiz')
